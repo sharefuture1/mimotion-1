@@ -1,12 +1,3 @@
-# mimotion
-
-# 小米运动自动刷步数
-
-> 小米运动自动刷步数
-
-## Github Actions 部署指南
-
-### 一、Fork 此仓库
 
 ### 二、设置账号密码
 > 添加名为  **PMODE**、**PKEY**、**USER**、**PWD**、**STEP** 的变量: Settings-->Secrets-->New secret  
@@ -67,10 +58,3 @@
 
 9. 请注意，账号不是 [小米账号]，而是 [小米运动] 的账号。
 
-## 纪念一下往日的辉煌
-
-[![](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)](https://i.loli.net/2021/11/19/BLi5cpjPSxh7Am2.png)
-
-## 历史Star数
-
-[![Stargazers over time](https://starchart.cc/577fkj/mimotion.svg)](https://starchart.cc/577fkj/mimotion)
